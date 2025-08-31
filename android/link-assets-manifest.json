@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/PloniBlack.otf",
+      "sha1": "f0ae82c611d9f9bf9842e0ca6989514e7ea090c9"
+    },
+    {
+      "path": "src/assets/fonts/PloniBold.otf",
+      "sha1": "02e77ba0c5fb7b265585bef0b9c06040c07f5724"
+    },
+    {
+      "path": "src/assets/fonts/PloniDBold.otf",
+      "sha1": "3790b1afac681df648ad52e7c270281aa430573e"
+    },
+    {
+      "path": "src/assets/fonts/PloniLight.otf",
+      "sha1": "0cc7cfc380f2ca8604c986e72fd16bf3bf515760"
+    },
+    {
+      "path": "src/assets/fonts/PloniMedium.otf",
+      "sha1": "6339d207c339c386828abf9251be534b61c247f7"
+    },
+    {
+      "path": "src/assets/fonts/PloniRegular.otf",
+      "sha1": "23f608daee82c22837644de8e32c35aa49ecb5ac"
+    },
+    {
+      "path": "src/assets/fonts/PloniUBold.otf",
+      "sha1": "520a86d21522fd0c0abdb9ae510fe1c41b645584"
+    },
+    {
+      "path": "src/assets/fonts/PloniULight.otf",
+      "sha1": "3ea15bd6b9746c28852a8d6aeda8a7bf7ca3ec9b"
+    }
+  ]
+}
